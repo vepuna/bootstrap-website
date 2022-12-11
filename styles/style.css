@@ -22,33 +22,48 @@ body{
 }
 
 /* tere works */
-.tere-works-header{
+.tere-works-header {
   color: #000000;
   font-weight: 700;
   font-size: 50px;
 }
-.tere-works-text{
+.tere-works-text {
   color: #9E9DA2;
   font-size: 25px;
 }
-.tere-works-info-title{
+.tere-works-info-title {
   color: #000000;
   font-weight: 700;
   font-size: 20px;
 }
 /* benefits */
-.benefits-item{
+.benefits-item {
   border: 5px #faf8f8 solid;
   border-radius: 5px;
   background: rgb(255, 254, 249);}
 
-.benefits-info-title{
+.benefits-info-title {
   color: #000000;
   font-weight: 700;
   font-size: 50px;
 }
-.benefits-info-text{
+.benefits-info-text {
   color: #9E9DA2;
   font-weight: 700;
   font-size: 20px;
+}
+/* footer */
+footer {
+  border-top: 2px #757575 solid;
+}
+.footer-header-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+.footer-header-text{
+  font-size: 15px;
+  font-weight: 400;
+}
+.copyrights{
+  color: #75BF7A;
 }
